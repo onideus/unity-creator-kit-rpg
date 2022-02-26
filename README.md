@@ -1,4 +1,4 @@
-# unity-creator-kit-rpg
+# TechOlympics Unity Game Development Workshop
 Unity Creator Kit RPG with additional art assets included in preparation for TechOlympics Hackathon workshop.
 
 ### Recommended Steps to Prepare for Workshop
